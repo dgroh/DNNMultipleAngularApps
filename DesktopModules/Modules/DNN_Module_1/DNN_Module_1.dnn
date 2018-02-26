@@ -1,0 +1,57 @@
+<dotnetnuke type="Package" version="9.1">
+  <packages>
+    <package name="DNN_Module_1" type="Module" version="1.0.0.0">
+      <friendlyName>DNN_Module_1</friendlyName>
+      <description>Daniel Groh DNN_Module_1 module</description>
+
+      <owner>
+        <name>Daniel Groh</name>
+        <organization>Daniel Groh</organization>
+        <url>http://www.twitter.com/daniel_groh</url>
+        <email>daniel.groh@gmail.com</email>
+      </owner>
+
+      <dependencies>
+        <dependency type="CoreVersion">09.01.01</dependency>
+      </dependencies>
+
+      <components>
+
+        <component type="ResourceFile">
+          <resourceFiles>
+            <basePath>DesktopModules/DNN_Module_1</basePath>
+            <resourceFile>
+              <name>Resources.zip</name>
+            </resourceFile>
+          </resourceFiles>
+        </component>
+
+        <component type="Module">
+          <desktopModule>
+            <moduleName>DNN_Module_1</moduleName>
+            <foldername>DNN_Module_1</foldername>
+            <supportedFeatures />
+            <moduleDefinitions>
+              <moduleDefinition>
+                <friendlyName>DNN_Module_1</friendlyName>
+                <defaultCacheTime>0</defaultCacheTime>
+                <moduleControls>
+                  <moduleControl>
+                    <controlKey />
+                    <controlSrc>DesktopModules/DNN_Module_1/dist/index.html</controlSrc>
+                    <supportsPartialRendering>False</supportsPartialRendering>
+                    <controlTitle />
+                    <controlType>View</controlType>
+                    <iconFile />
+                    <helpUrl />
+                    <viewOrder>0</viewOrder>
+                  </moduleControl>
+                </moduleControls>
+              </moduleDefinition>
+            </moduleDefinitions>
+          </desktopModule>
+        </component>
+      </components>
+    </package>
+  </packages>
+</dotnetnuke>

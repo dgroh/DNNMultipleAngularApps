@@ -1,0 +1,4 @@
+D:\Projects\DNN9\DesktopModules\bin\DNN_Module_1.dll
+D:\Projects\DNN9\DesktopModules\bin\DNN_Module_1.pdb
+D:\Projects\DNN9\DesktopModules\Modules\DNN_Module_1\obj\Release\DNN_Module_1.dll
+D:\Projects\DNN9\DesktopModules\Modules\DNN_Module_1\obj\Release\DNN_Module_1.pdb

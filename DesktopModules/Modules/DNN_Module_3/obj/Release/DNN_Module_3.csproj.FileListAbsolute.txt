@@ -1,0 +1,5 @@
+D:\Projects\DNN9\DesktopModules\bin\DNN_Module_3.dll
+D:\Projects\DNN9\DesktopModules\bin\DNN_Module_3.pdb
+D:\Projects\DNN9\DesktopModules\Modules\DNN_Module_3\obj\Release\DNN_Module_3.csprojResolveAssemblyReference.cache
+D:\Projects\DNN9\DesktopModules\Modules\DNN_Module_3\obj\Release\DNN_Module_3.dll
+D:\Projects\DNN9\DesktopModules\Modules\DNN_Module_3\obj\Release\DNN_Module_3.pdb
